@@ -1,0 +1,16 @@
+D:\tms\lesson3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\tms\lesson3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\tms\lesson3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\tms\lesson3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\tms\lesson3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\tms\lesson3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\tms\lesson3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\tms\lesson3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\tms\lesson3\task1\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\tms\lesson3\task1\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\tms\lesson3\task1\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\tms\lesson3\task1\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\tms\lesson3\task1\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\tms\lesson3\task1\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\tms\lesson3\task1\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\tms\lesson3\task1\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
