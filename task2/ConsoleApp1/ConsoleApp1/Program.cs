@@ -24,16 +24,17 @@ namespace ConsoleApp1
             if (numberA > numberB)
             {
                 Console.WriteLine($"Number {numberA} more then number {numberB}");
+                return;
             }
-
             if (numberB > numberA)
             {
                 Console.WriteLine($"Number {numberB} more then number {numberA}");
+                return;
             }
-
             if (numberB == numberA)
             {
                 Console.WriteLine($"Number {numberA} is equal to number {numberB}");
+                return;
             }
         }
     }
